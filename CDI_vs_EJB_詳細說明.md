@@ -1,5 +1,5 @@
 # Java EE CDI vs EJB 詳細說明
-
+Ref. [Overview of Enterprise Applications](https://docs.oracle.com/javaee/7/firstcup/java-ee001.htm)
 ## 1. 基本概念對比
 
 ### CDI (Contexts and Dependency Injection)
